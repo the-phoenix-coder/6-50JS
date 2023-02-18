@@ -28,4 +28,3 @@ HTML, CSS and JavaScript
     </tr>
   </tbody>
 </table>
-</table>
